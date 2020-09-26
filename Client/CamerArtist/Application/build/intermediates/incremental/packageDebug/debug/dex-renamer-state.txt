@@ -1,0 +1,4 @@
+#Fri Sep 25 20:30:12 CST 2020
+base.0=/home/haolin/Desktop/android-Camera2Basic-master/Application/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
